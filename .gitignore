@@ -1,0 +1,10 @@
+flask_socketio_chat/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz  
+
