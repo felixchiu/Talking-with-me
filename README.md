@@ -1,4 +1,4 @@
-# Flask SocketIO Chat App
+# Talking-with-me
 
 A modern, real-time chat application built with Flask, SocketIO, and Bulma CSS framework.
 
@@ -25,7 +25,7 @@ The app features a modern chat interface with:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Flask-SocketIO
+   cd Talking-with-me
    ```
 
 2. **Create virtual environment**
@@ -86,7 +86,7 @@ The app features a modern chat interface with:
 ## Project Structure
 
 ```
-Flask-SocketIO/
+Talking-with-me/
 ├── app.py                 # Main Flask application
 ├── requirements.txt       # Python dependencies
 ├── templates/
@@ -151,4 +151,8 @@ This project is open source and available under the MIT License.
 
 ---
 
-Built with ❤️ using Flask, SocketIO, and Bulma CSS 
+Built with ❤️ using Flask, SocketIO, and Bulma CSS
+
+## About
+
+Talking-with-me is a modern, responsive chat application that demonstrates real-time communication using WebSocket technology. Perfect for learning about real-time web applications or as a foundation for more complex chat systems. 
